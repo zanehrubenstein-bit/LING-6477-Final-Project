@@ -1,0 +1,289 @@
+trial_type,item,group,variant,clause1,clause2,sentence
+experimental,1,A,[A ← P],Before her mother did,Mary was scolded by her father,"Before her mother did, Mary was scolded by her father."
+experimental,1,B,[P ← A],Before her sister was,Mary’s father scolded her,"Before her sister was, Mary’s father scolded her."
+experimental,1,C,[A ← A],Before her mother did,Mary’s father scolded her,"Before her mother did, Mary’s father scolded her."
+experimental,1,D,[P ← P],Before her sister was,Mary was scolded by her father,"Before her sister was, Mary was scolded by her father."
+experimental,2,A,[P ← A],Before the confession was,the judge read the report first,"Before the confession was, the judge read the report first."
+experimental,2,B,[A ← A],Before the lawyer did,the judge read the report first,"Before the lawyer did, the judge read the report first."
+experimental,2,C,[P ← P],Before the confession was,the report was first read by the judge,"Before the confession was, the report was first read by the judge."
+experimental,2,D,[A ← P],Before the lawyer did,the report was first read by the judge,"Before the lawyer did, the report was first read by the judge."
+experimental,3,A,[A ← A],Before the President did,the Mayor first praised the fireman,"Before the President did, the Mayor first praised the fireman."
+experimental,3,B,[P ← P],Before the policeman was,the fireman was first praised by the Mayor,"Before the policeman was, the fireman was first praised by the Mayor."
+experimental,3,C,[A ← P],Before the President did,the fireman was first praised by the Mayor,"Before the President did, the fireman was first praised by the Mayor."
+experimental,3,D,[P ← A],Before the policeman was,the Mayor first praised the fireman,"Before the policeman was, the Mayor first praised the fireman."
+experimental,4,A,[P ← P],Before the loser was,the winner was hugged by the talk-show host,"Before the loser was, the winner was hugged by the talk-show host."
+experimental,4,B,[A ← P],Before the announcer did,the winner was hugged by the talk-show host,"Before the announcer did, the winner was hugged by the talk-show host."
+experimental,4,C,[P ← A],Before the loser was,the talk-show host hugged the winner,"Before the loser was, the talk-show host hugged the winner."
+experimental,4,D,[A ← A],Before the announcer did,the talk-show host hugged the winner,"Before the announcer did, the talk-show host hugged the winner."
+experimental,5,A,[A ← P],Before the advisor did,the student was praised by the old schoolmaster,"Before the advisor did, the student was praised by the old schoolmaster."
+experimental,5,B,[P ← A],Before the Teaching Assistant was,the old schoolmaster praised the student,"Before the Teaching Assistant was, the old schoolmaster praised the student."
+experimental,5,C,[A ← A],Before the advisor did,the old schoolmaster praised the student,"Before the advisor did, the old schoolmaster praised the student."
+experimental,5,D,[P ← P],Before the Teaching Assistant was,the student was praised by the old schoolmaster,"Before the Teaching Assistant was, the student was praised by the old schoolmaster."
+experimental,6,A,[P ← A],Before her sister was,Mary’s French grandmother gave her French classes,"Before her sister was, Mary’s French grandmother gave her French classes."
+experimental,6,B,[A ← A],Before her French aunt did,Mary’s French grandmother gave her French classes,"Before her French aunt did, Mary’s French grandmother gave her French classes."
+experimental,6,C,[P ← P],Before her sister was,Mary was given French classes by her French grandmother,"Before her sister was, Mary was given French classes by her French grandmother."
+experimental,6,D,[A ← P],Before her French aunt did,Mary was given French classes by her French grandmother,"Before her French aunt did, Mary was given French classes by her French grandmother."
+experimental,7,A,[A ← A],Before the credit union did,Susan’s bank offered her a loan,"Before the credit union did, Susan’s bank offered her a loan."
+experimental,7,B,[P ← P],Before her sisters were,Susan was offered a loan by the bank,"Before her sisters were, Susan was offered a loan by the bank."
+experimental,7,C,[A ← P],Before the credit union did,Susan was offered a loan by the bank,"Before the credit union did, Susan was offered a loan by the bank."
+experimental,7,D,[P ← A],Before her sisters were,Susan’s bank offered her a loan,"Before her sisters were, Susan’s bank offered her a loan."
+experimental,8,A,[P ← P],Before the accused was,the witness was surprised by the policeman’s question,"Before the accused was, the witness was surprised by the policeman’s question."
+experimental,8,B,[A ← P],Before the lawyer did,the witness was surprised by the policeman’s question,"Before the lawyer did, the witness was surprised by the policeman’s question."
+experimental,8,C,[P ← A],Before the accused was,the policeman’s question surprised the witness,"Before the accused was, the policeman’s question surprised the witness."
+experimental,8,D,[A ← A],Before the lawyer did,the policeman’s question surprised the witness,"Before the lawyer did, the policeman’s question surprised the witness."
+experimental,9,A,[A ← P],Before the big corporations did,the autoworkers were exploited by the local business,"Before the big corporations did, the autoworkers were exploited by the local business."
+experimental,9,B,[P ← A],Before the metal workers were,the local business exploited the autoworkers,"Before the metal workers were, the local business exploited the autoworkers."
+experimental,9,C,[A ← A],Before the big corporations did,the local business exploited the autoworkers,"Before the big corporations did, the local business exploited the autoworkers."
+experimental,9,D,[P ← P],Before the metal workers were,the autoworkers were exploited by the local business,"Before the metal workers were, the autoworkers were exploited by the local business."
+experimental,10,A,[P ← A],Before the Chief of Police was,the newspaper interviewed the Mayor,"Before the Chief of Police was, the newspaper interviewed the Mayor."
+experimental,10,B,[A ← A],Before the TV networks did,the newspaper interviewed the Mayor,"Before the TV networks did, the newspaper interviewed the Mayor."
+experimental,10,C,[P ← P],Before the Chief of Police was,the Mayor was interviewed by the newspapers,"Before the Chief of Police was, the Mayor was interviewed by the newspapers."
+experimental,10,D,[A ← P],Before the TV networks did,the Mayor was interviewed by the newspapers,"Before the TV networks did, the Mayor was interviewed by the newspapers."
+experimental,11,A,[A ← A],Before the lawyer did,the police questioned the suspect,"Before the lawyer did, the police questioned the suspect."
+experimental,11,B,[P ← P],Before the witness was,the suspect was questioned by the police,"Before the witness was, the suspect was questioned by the police."
+experimental,11,C,[A ← P],Before the lawyer did,the suspect was questioned by the police,"Before the lawyer did, the suspect was questioned by the police."
+experimental,11,D,[P ← A],Before the witness was,the police questioned the suspect,"Before the witness was, the police questioned the suspect."
+experimental,12,A,[P ← P],Before the head nurse was,the doctor was blamed by the child’s parents,"Before the head nurse was, the doctor was blamed by the child’s parents."
+experimental,12,B,[A ← P],Before the insurance company did,the doctor was blamed by the child’s parents,"Before the insurance company did, the doctor was blamed by the child’s parents."
+experimental,12,C,[P ← A],Before the head nurse was,the child’s parents blamed the doctor,"Before the head nurse was, the child’s parents blamed the doctor."
+experimental,12,D,[A ← A],Before the insurance company did,the child’s parents blamed the doctor,"Before the insurance company did, the child’s parents blamed the doctor."
+experimental,13,A,[A ← P],After John did already,the new girl was pushed again by Bill,"After John did already, the new girl was pushed again by Bill."
+experimental,13,B,[P ← A],After Jill was already,Bill pushed the new girl again,"After Jill was already, Bill pushed the new girl again."
+experimental,13,C,[A ← A],After John did already,Bill pushed the new girl again,"After John did already, Bill pushed the new girl again."
+experimental,13,D,[P ← P],After Jill was already,the new girl was pushed again by Bill,"After Jill was already, the new girl was pushed again by Bill."
+experimental,14,A,[P ← A],After his friend was previously,Customs questioned the student,"After his friend was previously, Customs questioned the student."
+experimental,14,B,[A ← A],After Immigration did previously,Customs questioned the student,"After Immigration did previously, Customs questioned the student."
+experimental,14,C,[P ← P],After his friend was previously,the student was questioned by Customs,"After his friend was previously, the student was questioned by Customs."
+experimental,14,D,[A ← P],After Immigration did previously,the student was questioned by Customs,"After Immigration did previously, the student was questioned by Customs."
+experimental,15,A,[A ← A],After the police did on Monday,the IRS investigated the accountant on Tuesday,"After the police did on Monday, the IRS investigated the accountant on Tuesday."
+experimental,15,B,[P ← P],After the CEO was on Monday,the accountant was investigated by the IRS on Tuesday,"After the CEO was on Monday, the accountant was investigated by the IRS on Tuesday."
+experimental,15,C,[A ← P],After the police did on Monday,the accountant was investigated by the IRS on Tuesday,"After the police did on Monday, the accountant was investigated by the IRS on Tuesday."
+experimental,15,D,[P ← A],After the CEO was on Monday,the IRS investigated the accountant on Tuesday,"After the CEO was on Monday, the IRS investigated the accountant on Tuesday."
+experimental,16,A,[P ← P],After the tennis team was previously,the volleyball team was beaten by the Cubans,"After the tennis team was previously, the volleyball team was beaten by the Cubans."
+experimental,16,B,[A ← P],After the Germans did previously,the volleyball team was beaten by the Cubans,"After the Germans did previously, the volleyball team was beaten by the Cubans."
+experimental,16,C,[P ← A],After the tennis team was previously,the Cubans beat the volleyball team,"After the tennis team was previously, the Cubans beat the volleyball team."
+experimental,16,D,[A ← A],After the Germans did previously,the Cubans beat the volleyball team,"After the Germans did previously, the Cubans beat the volleyball team."
+experimental,17,A,[A ← P],After the club owner himself did earlier,the guitarist was booed by the audience,"After the club owner himself did earlier, the guitarist was booed by the audience."
+experimental,17,B,[P ← A],After the lead singer herself was earlier,the audience booed the guitarist,"After the lead singer herself was earlier, the audience booed the guitarist."
+experimental,17,C,[A ← A],After the club owner himself did earlier,the audience booed the guitarist,"After the club owner himself did earlier, the audience booed the guitarist."
+experimental,17,D,[P ← P],After the lead singer herself was earlier,the guitarist was booed by the audience,"After the lead singer herself was earlier, the guitarist was booed by the audience."
+experimental,18,A,[P ← A],After the chairs were already,the seller criticized the table,"After the chairs were already, the seller criticized the table."
+experimental,18,B,[A ← A],After the buyer did already,the seller criticized the table,"After the buyer did already, the seller criticized the table."
+experimental,18,C,[P ← P],After the chairs were already,the table was criticized by the seller,"After the chairs were already, the table was criticized by the seller."
+experimental,18,D,[A ← P],After the buyer did already,the table was criticized by the seller,"After the buyer did already, the table was criticized by the seller."
+experimental,19,A,[A ← A],After the critic did already,the customer praised the dessert,"After the critic did already, the customer praised the dessert."
+experimental,19,B,[P ← P],After the appetizer was already,the dessert was praised by the customer,"After the appetizer was already, the dessert was praised by the customer."
+experimental,19,C,[A ← P],After the critic did already,the dessert was praised by the customer,"After the critic did already, the dessert was praised by the customer."
+experimental,19,D,[P ← A],After the appetizer was already,the customer praised the dessert,"After the appetizer was already, the customer praised the dessert."
+experimental,20,A,[P ← P],After the garage was previously,the house was photographed by Jill,"After the garage was previously, the house was photographed by Jill."
+experimental,20,B,[A ← P],After Sally did previously,the house was photographed by Jill,"After Sally did previously, the house was photographed by Jill."
+experimental,20,C,[P ← A],After the garage was previously,Jill photographed the house,"After the garage was previously, Jill photographed the house."
+experimental,20,D,[A ← A],After Sally did previously,Jill photographed the house,"After Sally did previously, Jill photographed the house."
+experimental,21,A,[A ← P],After Thorpe did previously,the 400 meter record was broken by Phelps,"After Thorpe did previously, the 400 meter record was broken by Phelps."
+experimental,21,B,[P ← A],After the 200 meter one was previously,Phelps broke the 400 meter record,"After the 200 meter one was previously, Phelps broke the 400 meter record."
+experimental,21,C,[A ← A],After Thorpe did previously,Phelps broke the 400 meter record,"After Thorpe did previously, Phelps broke the 400 meter record."
+experimental,21,D,[P ← P],After the 200 meter one was previously,the 400 meter record was broken by Phelps,"After the 200 meter one was previously, the 400 meter record was broken by Phelps."
+experimental,22,A,[P ← A],After the chef’s private notes were already,Kate revealed the secret recipe,"After the chef’s private notes were already, Kate revealed the secret recipe."
+experimental,22,B,[A ← A],After Sandra did already,Kate revealed the secret recipe,"After Sandra did already, Kate revealed the secret recipe."
+experimental,22,C,[P ← P],After the chef’s private notes were already,the secret recipe was revealed by Kate,"After the chef’s private notes were already, the secret recipe was revealed by Kate."
+experimental,22,D,[A ← P],After Sandra did already,the secret recipe was revealed by Kate,"After Sandra did already, the secret recipe was revealed by Kate."
+experimental,23,A,[A ← A],After the department secretary did previously,the department head called the library,"After the department secretary did previously, the department head called the library."
+experimental,23,B,[P ← P],After the records office was previously,the library was called by the department head,"After the records office was previously, the library was called by the department head."
+experimental,23,C,[A ← P],After the department secretary did previously,the library was called by the department head,"After the department secretary did previously, the library was called by the department head."
+experimental,23,D,[P ← A],After the records office was previously,the department head called the library,"After the records office was previously, the department head called the library."
+experimental,24,A,[P ← P],After the local paper was already,the local writers were criticized by Tom,"After the local paper was already, the local writers were criticized by Tom."
+experimental,24,B,[A ← P],After the professor did already,the local writers were criticized by Tom,"After the professor did already, the local writers were criticized by Tom."
+experimental,24,C,[P ← A],After the local paper was already,Tom criticized the local writers,"After the local paper was already, Tom criticized the local writers."
+experimental,24,D,[A ← A],After the professor did already,Tom criticized the local writers,"After the professor did already, Tom criticized the local writers."
+filler,1,A,upper-bound elliptical,,,"The reporter claimed that the decision wasn't made by the president, even though it most definitely was."
+filler,1,B,upper-bound elliptical,,,"The reporter claimed that the decision wasn't made by the president, even though it most definitely was."
+filler,1,C,upper-bound elliptical,,,"The reporter claimed that the decision wasn't made by the president, even though it most definitely was."
+filler,1,D,upper-bound elliptical,,,"The reporter claimed that the decision wasn't made by the president, even though it most definitely was."
+filler,2,A,upper-bound elliptical,,,The thief was arrested and his brother was as well.
+filler,2,B,upper-bound elliptical,,,The thief was arrested and his brother was as well.
+filler,2,C,upper-bound elliptical,,,The thief was arrested and his brother was as well.
+filler,2,D,upper-bound elliptical,,,The thief was arrested and his brother was as well.
+filler,3,A,upper-bound elliptical,,,"I wish I knew where the remote control is, but I don't."
+filler,3,B,upper-bound elliptical,,,"I wish I knew where the remote control is, but I don't."
+filler,3,C,upper-bound elliptical,,,"I wish I knew where the remote control is, but I don't."
+filler,3,D,upper-bound elliptical,,,"I wish I knew where the remote control is, but I don't."
+filler,4,A,upper-bound elliptical,,,Some guests brought drinks to the party although they didn't have to.
+filler,4,B,upper-bound elliptical,,,Some guests brought drinks to the party although they didn't have to.
+filler,4,C,upper-bound elliptical,,,Some guests brought drinks to the party although they didn't have to.
+filler,4,D,upper-bound elliptical,,,Some guests brought drinks to the party although they didn't have to.
+filler,5,A,upper-bound elliptical,,,The lawyer became angry and he shouldn't have.
+filler,5,B,upper-bound elliptical,,,The lawyer became angry and he shouldn't have.
+filler,5,C,upper-bound elliptical,,,The lawyer became angry and he shouldn't have.
+filler,5,D,upper-bound elliptical,,,The lawyer became angry and he shouldn't have.
+filler,6,A,upper-bound elliptical,,,"This is fascinating, it really is."
+filler,6,B,upper-bound elliptical,,,"This is fascinating, it really is."
+filler,6,C,upper-bound elliptical,,,"This is fascinating, it really is."
+filler,6,D,upper-bound elliptical,,,"This is fascinating, it really is."
+filler,7,A,upper-bound elliptical,,,Your son was worried that you'll be angry so I told him you won't.
+filler,7,B,upper-bound elliptical,,,Your son was worried that you'll be angry so I told him you won't.
+filler,7,C,upper-bound elliptical,,,Your son was worried that you'll be angry so I told him you won't.
+filler,7,D,upper-bound elliptical,,,Your son was worried that you'll be angry so I told him you won't.
+filler,8,A,upper-bound elliptical,,,Somebody else should take out the garbage because I can't today.
+filler,8,B,upper-bound elliptical,,,Somebody else should take out the garbage because I can't today.
+filler,8,C,upper-bound elliptical,,,Somebody else should take out the garbage because I can't today.
+filler,8,D,upper-bound elliptical,,,Somebody else should take out the garbage because I can't today.
+filler,9,A,upper-bound elliptical,,,Bob's always wanted to travel to Bolivia and now he finally did.
+filler,9,B,upper-bound elliptical,,,Bob's always wanted to travel to Bolivia and now he finally did.
+filler,9,C,upper-bound elliptical,,,Bob's always wanted to travel to Bolivia and now he finally did.
+filler,9,D,upper-bound elliptical,,,Bob's always wanted to travel to Bolivia and now he finally did.
+filler,10,A,upper-bound elliptical,,,"If you really want to, we can get some ice cream on the way."
+filler,10,B,upper-bound elliptical,,,"If you really want to, we can get some ice cream on the way."
+filler,10,C,upper-bound elliptical,,,"If you really want to, we can get some ice cream on the way."
+filler,10,D,upper-bound elliptical,,,"If you really want to, we can get some ice cream on the way."
+filler,11,A,upper-bound elliptical,,,"John knew he would fall asleep eventually, but he didn't know when."
+filler,11,B,upper-bound elliptical,,,"John knew he would fall asleep eventually, but he didn't know when."
+filler,11,C,upper-bound elliptical,,,"John knew he would fall asleep eventually, but he didn't know when."
+filler,11,D,upper-bound elliptical,,,"John knew he would fall asleep eventually, but he didn't know when."
+filler,12,A,upper-bound elliptical,,,Mr. Jones lost his wallet and he has no idea where.
+filler,12,B,upper-bound elliptical,,,Mr. Jones lost his wallet and he has no idea where.
+filler,12,C,upper-bound elliptical,,,Mr. Jones lost his wallet and he has no idea where.
+filler,12,D,upper-bound elliptical,,,Mr. Jones lost his wallet and he has no idea where.
+filler,13,A,lower-bound elliptical,,,A proof that God exists doesn't.
+filler,13,B,lower-bound elliptical,,,A proof that God exists doesn't.
+filler,13,C,lower-bound elliptical,,,A proof that God exists doesn't.
+filler,13,D,lower-bound elliptical,,,A proof that God exists doesn't.
+filler,14,A,lower-bound elliptical,,,"Even in areas where tap water is potable, one shouldn't."
+filler,14,B,lower-bound elliptical,,,"Even in areas where tap water is potable, one shouldn't."
+filler,14,C,lower-bound elliptical,,,"Even in areas where tap water is potable, one shouldn't."
+filler,14,D,lower-bound elliptical,,,"Even in areas where tap water is potable, one shouldn't."
+filler,15,A,lower-bound elliptical,,,Beth's mother invited more people to her wedding than were by Beth herself.
+filler,15,B,lower-bound elliptical,,,Beth's mother invited more people to her wedding than were by Beth herself.
+filler,15,C,lower-bound elliptical,,,Beth's mother invited more people to her wedding than were by Beth herself.
+filler,15,D,lower-bound elliptical,,,Beth's mother invited more people to her wedding than were by Beth herself.
+filler,16,A,lower-bound elliptical,,,Bill admires Sarah more than she is by anyone else.
+filler,16,B,lower-bound elliptical,,,Bill admires Sarah more than she is by anyone else.
+filler,16,C,lower-bound elliptical,,,Bill admires Sarah more than she is by anyone else.
+filler,16,D,lower-bound elliptical,,,Bill admires Sarah more than she is by anyone else.
+filler,17,A,lower-bound elliptical,,,"Most people can't lift heavy rocks, but I know a guy who can and bend a crowbar, too."
+filler,17,B,lower-bound elliptical,,,"Most people can't lift heavy rocks, but I know a guy who can and bend a crowbar, too."
+filler,17,C,lower-bound elliptical,,,"Most people can't lift heavy rocks, but I know a guy who can and bend a crowbar, too."
+filler,17,D,lower-bound elliptical,,,"Most people can't lift heavy rocks, but I know a guy who can and bend a crowbar, too."
+filler,18,A,lower-bound elliptical,,,"Kevin's diaper may be wet, but he won't."
+filler,18,B,lower-bound elliptical,,,"Kevin's diaper may be wet, but he won't."
+filler,18,C,lower-bound elliptical,,,"Kevin's diaper may be wet, but he won't."
+filler,18,D,lower-bound elliptical,,,"Kevin's diaper may be wet, but he won't."
+filler,19,A,lower-bound elliptical,,,I know why it happened but it wasn't.
+filler,19,B,lower-bound elliptical,,,I know why it happened but it wasn't.
+filler,19,C,lower-bound elliptical,,,I know why it happened but it wasn't.
+filler,19,D,lower-bound elliptical,,,I know why it happened but it wasn't.
+filler,20,A,lower-bound elliptical,,,Does he understand why and who didn't?
+filler,20,B,lower-bound elliptical,,,Does he understand why and who didn't?
+filler,20,C,lower-bound elliptical,,,Does he understand why and who didn't?
+filler,20,D,lower-bound elliptical,,,Does he understand why and who didn't?
+filler,21,A,lower-bound elliptical,,,Betsy did after Peter went to the store.
+filler,21,B,lower-bound elliptical,,,Betsy did after Peter went to the store.
+filler,21,C,lower-bound elliptical,,,Betsy did after Peter went to the store.
+filler,21,D,lower-bound elliptical,,,Betsy did after Peter went to the store.
+filler,22,A,lower-bound elliptical,,,"That Harry is a fool bothers Dick, and that Bill is a fool Sam."
+filler,22,B,lower-bound elliptical,,,"That Harry is a fool bothers Dick, and that Bill is a fool Sam."
+filler,22,C,lower-bound elliptical,,,"That Harry is a fool bothers Dick, and that Bill is a fool Sam."
+filler,22,D,lower-bound elliptical,,,"That Harry is a fool bothers Dick, and that Bill is a fool Sam."
+filler,23,A,lower-bound elliptical,,,"Joe was murdered, but we don't know who."
+filler,23,B,lower-bound elliptical,,,"Joe was murdered, but we don't know who."
+filler,23,C,lower-bound elliptical,,,"Joe was murdered, but we don't know who."
+filler,23,D,lower-bound elliptical,,,"Joe was murdered, but we don't know who."
+filler,24,A,lower-bound elliptical,,,"Hailey melted the copper vase, and the magnesium one did, too."
+filler,24,B,lower-bound elliptical,,,"Hailey melted the copper vase, and the magnesium one did, too."
+filler,24,C,lower-bound elliptical,,,"Hailey melted the copper vase, and the magnesium one did, too."
+filler,24,D,lower-bound elliptical,,,"Hailey melted the copper vase, and the magnesium one did, too."
+filler,25,A,upper-bound non-elliptical,,,I can't hear the announcement but I don't care.
+filler,25,B,upper-bound non-elliptical,,,I can't hear the announcement but I don't care.
+filler,25,C,upper-bound non-elliptical,,,I can't hear the announcement but I don't care.
+filler,25,D,upper-bound non-elliptical,,,I can't hear the announcement but I don't care.
+filler,26,A,upper-bound non-elliptical,,,"Since you're not answering my question, I will assume that you don't know the answer."
+filler,26,B,upper-bound non-elliptical,,,"Since you're not answering my question, I will assume that you don't know the answer."
+filler,26,C,upper-bound non-elliptical,,,"Since you're not answering my question, I will assume that you don't know the answer."
+filler,26,D,upper-bound non-elliptical,,,"Since you're not answering my question, I will assume that you don't know the answer."
+filler,27,A,upper-bound non-elliptical,,,Stop me when my time is up!
+filler,27,B,upper-bound non-elliptical,,,Stop me when my time is up!
+filler,27,C,upper-bound non-elliptical,,,Stop me when my time is up!
+filler,27,D,upper-bound non-elliptical,,,Stop me when my time is up!
+filler,28,A,upper-bound non-elliptical,,,Sometimes Susan has a hard time keeping up in class.
+filler,28,B,upper-bound non-elliptical,,,Sometimes Susan has a hard time keeping up in class.
+filler,28,C,upper-bound non-elliptical,,,Sometimes Susan has a hard time keeping up in class.
+filler,28,D,upper-bound non-elliptical,,,Sometimes Susan has a hard time keeping up in class.
+filler,29,A,upper-bound non-elliptical,,,Good coaches know which players play well under pressure.
+filler,29,B,upper-bound non-elliptical,,,Good coaches know which players play well under pressure.
+filler,29,C,upper-bound non-elliptical,,,Good coaches know which players play well under pressure.
+filler,29,D,upper-bound non-elliptical,,,Good coaches know which players play well under pressure.
+filler,30,A,upper-bound non-elliptical,,,The older daughter taught her younger sister how to cook.
+filler,30,B,upper-bound non-elliptical,,,The older daughter taught her younger sister how to cook.
+filler,30,C,upper-bound non-elliptical,,,The older daughter taught her younger sister how to cook.
+filler,30,D,upper-bound non-elliptical,,,The older daughter taught her younger sister how to cook.
+filler,31,A,upper-bound non-elliptical,,,The soccer player was happy with his performance.
+filler,31,B,upper-bound non-elliptical,,,The soccer player was happy with his performance.
+filler,31,C,upper-bound non-elliptical,,,The soccer player was happy with his performance.
+filler,31,D,upper-bound non-elliptical,,,The soccer player was happy with his performance.
+filler,32,A,upper-bound non-elliptical,,,The cellist made a mistake in her favorite piece.
+filler,32,B,upper-bound non-elliptical,,,The cellist made a mistake in her favorite piece.
+filler,32,C,upper-bound non-elliptical,,,The cellist made a mistake in her favorite piece.
+filler,32,D,upper-bound non-elliptical,,,The cellist made a mistake in her favorite piece.
+filler,33,A,upper-bound non-elliptical,,,Most readers didn't expect the final plot twist.
+filler,33,B,upper-bound non-elliptical,,,Most readers didn't expect the final plot twist.
+filler,33,C,upper-bound non-elliptical,,,Most readers didn't expect the final plot twist.
+filler,33,D,upper-bound non-elliptical,,,Most readers didn't expect the final plot twist.
+filler,34,A,upper-bound non-elliptical,,,Environmentally aware citizens recycle plastic bags.
+filler,34,B,upper-bound non-elliptical,,,Environmentally aware citizens recycle plastic bags.
+filler,34,C,upper-bound non-elliptical,,,Environmentally aware citizens recycle plastic bags.
+filler,34,D,upper-bound non-elliptical,,,Environmentally aware citizens recycle plastic bags.
+filler,35,A,upper-bound non-elliptical,,,Some people's handwriting is so bad that they can't read it themselves.
+filler,35,B,upper-bound non-elliptical,,,Some people's handwriting is so bad that they can't read it themselves.
+filler,35,C,upper-bound non-elliptical,,,Some people's handwriting is so bad that they can't read it themselves.
+filler,35,D,upper-bound non-elliptical,,,Some people's handwriting is so bad that they can't read it themselves.
+filler,36,A,upper-bound non-elliptical,,,You enjoy Action TV shows while I prefer documentaries.
+filler,36,B,upper-bound non-elliptical,,,You enjoy Action TV shows while I prefer documentaries.
+filler,36,C,upper-bound non-elliptical,,,You enjoy Action TV shows while I prefer documentaries.
+filler,36,D,upper-bound non-elliptical,,,You enjoy Action TV shows while I prefer documentaries.
+filler,37,A,lower-bound non-elliptical,,,"If it hasn't dark, it is easier to saw pedestrians."
+filler,37,B,lower-bound non-elliptical,,,"If it hasn't dark, it is easier to saw pedestrians."
+filler,37,C,lower-bound non-elliptical,,,"If it hasn't dark, it is easier to saw pedestrians."
+filler,37,D,lower-bound non-elliptical,,,"If it hasn't dark, it is easier to saw pedestrians."
+filler,38,A,lower-bound non-elliptical,,,Whose didn't you get email?
+filler,38,B,lower-bound non-elliptical,,,Whose didn't you get email?
+filler,38,C,lower-bound non-elliptical,,,Whose didn't you get email?
+filler,38,D,lower-bound non-elliptical,,,Whose didn't you get email?
+filler,39,A,lower-bound non-elliptical,,,Most photographers forget whose they took picture within a day.
+filler,39,B,lower-bound non-elliptical,,,Most photographers forget whose they took picture within a day.
+filler,39,C,lower-bound non-elliptical,,,Most photographers forget whose they took picture within a day.
+filler,39,D,lower-bound non-elliptical,,,Most photographers forget whose they took picture within a day.
+filler,40,A,lower-bound non-elliptical,,,What did you meet a janitor that hates?
+filler,40,B,lower-bound non-elliptical,,,What did you meet a janitor that hates?
+filler,40,C,lower-bound non-elliptical,,,What did you meet a janitor that hates?
+filler,40,D,lower-bound non-elliptical,,,What did you meet a janitor that hates?
+filler,41,A,lower-bound non-elliptical,,,The police found the painting that the journalist claimed who stole.
+filler,41,B,lower-bound non-elliptical,,,The police found the painting that the journalist claimed who stole.
+filler,41,C,lower-bound non-elliptical,,,The police found the painting that the journalist claimed who stole.
+filler,41,D,lower-bound non-elliptical,,,The police found the painting that the journalist claimed who stole.
+filler,42,A,lower-bound non-elliptical,,,Claire isn't as fast anymore as the reporter remembers who was five years ago.
+filler,42,B,lower-bound non-elliptical,,,Claire isn't as fast anymore as the reporter remembers who was five years ago.
+filler,42,C,lower-bound non-elliptical,,,Claire isn't as fast anymore as the reporter remembers who was five years ago.
+filler,42,D,lower-bound non-elliptical,,,Claire isn't as fast anymore as the reporter remembers who was five years ago.
+filler,43,A,lower-bound non-elliptical,,,Who did the press secretary ask a question before we interviewed?
+filler,43,B,lower-bound non-elliptical,,,Who did the press secretary ask a question before we interviewed?
+filler,43,C,lower-bound non-elliptical,,,Who did the press secretary ask a question before we interviewed?
+filler,43,D,lower-bound non-elliptical,,,Who did the press secretary ask a question before we interviewed?
+filler,44,A,lower-bound non-elliptical,,,The man wondered whether is worth reading what for him.
+filler,44,B,lower-bound non-elliptical,,,The man wondered whether is worth reading what for him.
+filler,44,C,lower-bound non-elliptical,,,The man wondered whether is worth reading what for him.
+filler,44,D,lower-bound non-elliptical,,,The man wondered whether is worth reading what for him.
+filler,45,A,lower-bound non-elliptical,,,The mechanic didn't know what the attempt to repair ultimately damaged the car.
+filler,45,B,lower-bound non-elliptical,,,The mechanic didn't know what the attempt to repair ultimately damaged the car.
+filler,45,C,lower-bound non-elliptical,,,The mechanic didn't know what the attempt to repair ultimately damaged the car.
+filler,45,D,lower-bound non-elliptical,,,The mechanic didn't know what the attempt to repair ultimately damaged the car.
+filler,46,A,lower-bound non-elliptical,,,What do you wish that to buy would be no problem?
+filler,46,B,lower-bound non-elliptical,,,What do you wish that to buy would be no problem?
+filler,46,C,lower-bound non-elliptical,,,What do you wish that to buy would be no problem?
+filler,46,D,lower-bound non-elliptical,,,What do you wish that to buy would be no problem?
+filler,47,A,lower-bound non-elliptical,,,Don't do what he who doesn't hasn't yet been done.
+filler,47,B,lower-bound non-elliptical,,,Don't do what he who doesn't hasn't yet been done.
+filler,47,C,lower-bound non-elliptical,,,Don't do what he who doesn't hasn't yet been done.
+filler,47,D,lower-bound non-elliptical,,,Don't do what he who doesn't hasn't yet been done.
+filler,48,A,lower-bound non-elliptical,,,The author wasn't sure who she heard who ran into.
+filler,48,B,lower-bound non-elliptical,,,The author wasn't sure who she heard who ran into.
+filler,48,C,lower-bound non-elliptical,,,The author wasn't sure who she heard who ran into.
+filler,48,D,lower-bound non-elliptical,,,The author wasn't sure who she heard who ran into.
